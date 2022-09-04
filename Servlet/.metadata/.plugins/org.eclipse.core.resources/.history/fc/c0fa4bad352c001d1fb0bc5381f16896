@@ -1,0 +1,5 @@
+package net.christy.registration.dao;
+
+public class EmployeeDao {
+
+}
