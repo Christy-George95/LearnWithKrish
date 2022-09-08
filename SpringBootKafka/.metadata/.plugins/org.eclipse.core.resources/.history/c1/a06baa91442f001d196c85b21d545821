@@ -1,0 +1,5 @@
+package com.example.kafkasample.config;
+
+public class KafkaTopicConfig {
+
+}
